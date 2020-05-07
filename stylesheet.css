@@ -1,0 +1,158 @@
+body{
+	margin: 0;
+	text-align: right;
+	font-family: 'Slabo 27px', serif;
+	color: white;
+	background-color: pink;
+}
+header{
+	background-color: lightblue;
+	background-position: center;	
+}
+div{
+	margin: 0;
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+	background-color: pink;
+}
+h1{
+	margin: 0;
+	padding-top: 100px;
+	font-size: 90px;
+	font-family: 'Monotype Corsiva';
+}
+h2{
+	margin: 0;
+	font-size: 60px;
+	font-family: 'Monotype Corsiva';
+	padding-top: 20px;
+}
+h3{
+	font-size: 60px;
+	text-align: center;
+	font-family: 'Monotype Corsiva';
+	padding-top: 70px;
+}
+h4{
+	padding-bottom: 50px;
+}
+
+.me1{
+	list-style-type:none;
+}
+.nu1{
+	font-size: 15px;
+	float: right;
+	margin: 10px;
+	word-spacing: 15px;
+	display; inline-block;
+	padding-top: 40px;
+}
+span a{
+	text-decoration: none;
+	color: white;
+	padding: 5px 5px;
+	border: 1px solid trnasparent;
+}
+span a:hover{
+	background-color: white;
+	color: black;
+}
+.me2{
+	word-spacing: 30px;
+	background-color: blue;
+	height: 200px
+	color: #ef3b65;
+	font-size: 30px;
+	
+}
+.nu2{
+	font-size: 15px;
+	float: right;
+	margin: 10px;
+	word-spacing: 15px;
+	display; inline-block;
+	padding-top: 40px;
+}
+span a{
+	color: white;
+	text-decoration: none;
+	padding: 5px 5px;
+	border: 1px solid transparent;
+}
+span a:hover{
+	background-color: white;
+	color: black;
+}
+
+.profile{
+	font-size: 20px;
+	margin: auto;
+	background-color: lightblue;
+	width: 50%;
+}
+.hello{
+	font-size: 45px;
+}
+.fotoganteng2{
+	border-radius: 50%;
+	border: 5px solid;
+}
+.fotoganteng{
+	position: absolute;
+	left: 5%;
+	border-radius: 50%;
+	padding-top: 10px;
+}
+
+
+.organisasi{
+	text-align: left;
+	width: 800px;
+	margin: 100px auto 100px auto;
+	line-height: 2;
+	background-color: lightblue;
+}
+.tulis2{
+	margin: 0;
+	font-size: 40px;
+	font-family: 'Monotype Corsiva';
+}
+.foto2{
+	margin: auto;
+	float: left;
+}
+.matkul{
+	text-align: right;
+	width: 800px;
+	padding: 5px;
+	margin: 100px auto 100px auto;
+	line-height: 2;
+	background-color: lightblue;
+}
+.tulis3{
+	margin: 0;
+	font-size: 30px;
+	font-family: 'Monotype Corsiva';
+}
+.foto3{
+	margin: auto;
+	float: right;
+}
+.pendidikan{
+	text-align: left;
+	width: 800px;
+	padding: 5px;
+	margin: 100px auto 100px auto;
+	line-height: 2;
+	background-color: lightblue;
+}
+.tulis1{
+	margin: 0;
+	font-size: 40px;
+	font-family: 'Monotype Corsiva';
+}
+.foto1{
+	margin: auto;
+	float: left;
+}
